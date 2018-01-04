@@ -1,4 +1,7 @@
 def plus_two(num)
-	return num + 2
-	# binding.pry
+	p num + 2
+	binding.pry
+	x = 7
+	p x;
+	binding.pry
 end
