@@ -5,3 +5,5 @@ def plus_two(num)
 	p x;
 	binding.pry
 end
+
+plus_two(7)
